@@ -24,3 +24,4 @@ spec:
     - ./default-team.yaml
     - ./guest-user.yaml
     - ./sreeramsunkara.yaml
+    - ./jk.yaml

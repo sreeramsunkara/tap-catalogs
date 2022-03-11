@@ -23,3 +23,5 @@ spec:
   targets:
     - ./default-team.yaml
     - ./guest-user.yaml
+    - ./sreeramsunkara.yaml
+    - ./jk.yaml
